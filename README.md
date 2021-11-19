@@ -37,6 +37,7 @@ Here is an image of the software running. The UI is relatively simple to grasp, 
 <img src="img/mandelbrot0.png">
 
 ### Compiling
+For the MSVC compiler:
 ```bash
 mkdir build && cd build
 cmake ..
