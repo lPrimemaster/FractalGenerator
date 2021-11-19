@@ -18,9 +18,13 @@ Being a mostly project of mine made for fun, the source code is all on a single 
 | Shaders inside binary | :x: | :heavy_minus_sign: |
 
 <sup>1</sup>Framerate may vary depending on hardware. Tested on a GXT 1070.
+
 <sup>2</sup>Is this crazy on a GPU shader?
+
 <sup>3</sup>Limited to single colored gradient or a fixed hue mode.
+
 <sup>4</sup>Currenly only outputs binary ppm frames (`P6 - Portable PixMap`) to a numbered folder. Use some lib like `ffmpeg` to compress the frames into a video format.
+
 
 | Set | Implemented |
 |-|:-:|
