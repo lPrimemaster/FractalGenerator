@@ -1,0 +1,5 @@
+# Ignore vs stuff
+.vscode/
+
+build/
+[0-9]*/
