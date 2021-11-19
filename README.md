@@ -30,7 +30,7 @@ Being a mostly project of mine made for fun, the source code is all on a single 
 
 Here is an image of the software running. The UI is relatively simple to grasp, just play around with it. This readme can explain it if you're willing to pull request :sweat_smile:.
 
-![The Mandelbrot Set](img/mandelbrot0.png | width=200)
+<img src="img/mandelbrot0.png">
 
 ### Compiling
 ```bash
