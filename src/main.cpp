@@ -275,6 +275,7 @@ static void CleanUp(InitData& d)
     glDeleteVertexArrays(1, &d.rect_vao);
 }
 
+// I like being a bad boy (...)
 unsigned set = 0;
 double g_scroll = 1;
 unsigned iterations = 20;
